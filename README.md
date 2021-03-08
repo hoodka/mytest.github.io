@@ -9,3 +9,11 @@ Maecenas lorem. Curabitur bibendum justo non orci. Praesent in mauris eu tortor 
 <b>Nunc auctor. In convallis. Phasellus faucibus molestie nisl. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Donec vitae arcu. Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Proin pede metus, vulputate nec, fermentum fringilla, vehicula vitae, justo. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et, dolor. Donec vitae arcu. Etiam posuere lacus quis dolor. Aliquam in lorem sit amet leo accumsan lacinia. Proin in tellus sit amet nibh dignissim sagittis. Duis viverra diam non justo. Fusce aliquam vestibulum ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.</b>
 
 Etiam neque. Proin in tellus sit amet nibh dignissim sagittis. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Aliquam erat volutpat. Vestibulum fermentum tortor id mi. Fusce consectetuer risus a nunc. Quisque porta. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Praesent vitae arcu tempor neque lacinia pretium. Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. Mauris dictum facilisis augue. Pellentesque pretium lectus id turpis.
+
+<div class="vertical-menu">
+  <a href="#" class="active">Home</a>
+  <a href="#">Link 1</a>
+  <a href="#">Link 2</a>
+  <a href="#">Link 3</a>
+  <a href="#">Link 4</a>
+</div>
